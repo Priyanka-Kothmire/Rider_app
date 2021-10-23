@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "rider_name": "cab",
+            "name": "mahesh",
+            "price": 660,
+            "phone number": 8412972869,
+            "auto number": "MH_15 2010",
+            "auto colour": "Red",
+            "rating": 4.5,
+            "review": [
+                "safty journey"
+            ]
+        },
+        {
+            "id": 2,
+            "rider_name": "auto",
+            "name": "suresh",
+            "price": 780,
+            "phone number": 9022118216,
+            "auto number": "MH_15 2012",
+            "auto colour": "yellow",
+            "rating": 3.4,
+            "review": [
+                "safty journey"
+            ]
+        },
+        {
+            "id": 3,
+            "rider_name": "rider",
+            "name": "ganesh",
+            "price": 550,
+            "phone number": 9075971405,
+            "auto number": "MH_15 2014",
+            "auto colour": "pink",
+            "rating": 2.6,
+            "review": [
+                "safty journey"
+            ]
+        },
+        {
+            "id": 4,
+            "rider_name": "rider",
+            "name": "rajesh",
+            "price": 880,
+            "phone number": 9075971405,
+            "auto number": "MH_15 2018",
+            "auto colour": "white",
+            "rating": 3.5,
+            "review": [
+                "safty journey"
+            ]
+        },
+        {
+            "id": 5,
+            "rider_name": "cab",
+            "name": "kiran",
+            "price": 430,
+            "phone number": 9075971405,
+            "auto number": "MH_15 2021",
+            "auto colour": "pink",
+            "rating": 2.6,
+            "review": [
+                "safty journey"
+            ]
+        },
+        {
+            "id": 6,
+            "rider_name": "auto",
+            "name": "yogesh",
+            "price": 670,
+            "phone number": 9075971405,
+            "auto number": "MH_15 2045",
+            "auto colour": "white",
+            "rating": 5.2,
+            "review": [
+                "safty journey"
+            ]
+        },
+        {
+            "id": 7,
+            "rider_name": "cab",
+            "name": "sanjay",
+            "price": 760,
+            "phone number": 9075971405,
+            "auto number": "MH_15 2021",
+            "auto colour": "pink",
+            "rating": 2.6,
+            "review": [
+                "safty journey"
+            ]
+        }
+    ]
+}
